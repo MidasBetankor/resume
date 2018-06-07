@@ -2,10 +2,10 @@
   "basics": {
     "name": "Bohdan Herasymenko",
     "label": "Web Developer",
-    "picture": "",
+    "picture": "https://scontent.fiev12-1.fna.fbcdn.net/v/t1.0-9/17553861_1463002010385019_3603539927289037138_n.jpg?_nc_cat=0&oh=c2d945bda260f22aca7f4ab4b9309506&oe=5B7DCD62",
     "email": "www.de31k@gmail.com",
     "phone": "(+38) 096-86-15-206",
-    "summary": "Hi! Allow me to briefly introduce myself. Bohdan Herasymenko from Ukraine. 25 years old. Grew up in an industrial city of Kharkiv. In 2016 received Master's degree at National University of Economics, speciality: Informational Management Systems and Technologies. Began working being the 4th year student and instantly realized  w Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "summary": "Hi! Brief introduction :) Bohdan Herasymenko 25 years old, Ukraine. Grew up in an industrial city of Kharkiv. In 2016 received Master's degree at National University of Economics, speciality: Informational Management Systems and Technologies. Began working while being the 4th year student in 2014 and since that moment acquired different technical and social skills. Consider open mindedness, willingness to learn and interest in tough challenges to be my strongest skills. I believe that friendliness, intelligence and decency are the most important qualities of any team member and always try to fit to these qualities :)",
     "location": {
       "address": "162-G Traktorobudivnikiv av.",
       "postalCode": "61129",
@@ -16,7 +16,7 @@
     "profiles": [
       {
         "network": "Facebook",
-        "username": "de31k",
+        "username": "Bohdan Herasymenko",
         "url": "https://www.facebook.com/de31k"
       }
     ]
@@ -24,7 +24,7 @@
   "work": [
     {
       "company": "Adorama",
-      "position": ".NET Developer",
+      "position": ".NET Web Developer",
       "website": "https://www.adorama.com/",
       "startDate": "2014-05-25",
       "endDate": "2015-11-10",
@@ -38,7 +38,7 @@
     },
     {
       "company": "One Technologies",
-      "position": ".NET Developer",
+      "position": "Full Stack Web Developer",
       "website": "http://www.onetechnologies.com/",
       "startDate": "2016-01-25",
       "endDate": "2017-05-01",
@@ -60,10 +60,10 @@
       "highlights": [
         "Direct product owner communication",
         "Successfully led various technical projects to successful completion",
-	"Experience of working as a single member of kanban team",
-	"Strengthened my skills within SQL Server and SSIS fields",
-	"Received valuable experience of asynchronous programming",
-	"Experience of working under pressure within tightly packed schedule"
+        "Experience of working as a single member of kanban team",
+        "Strengthened my skills within SQL Server and SSIS fields",
+        "Received valuable experience of asynchronous programming",
+        "Experience of working under pressure within tightly packed schedule"
       ]
     },
     {
@@ -144,7 +144,7 @@
     },
     {
       "language": "English",
-      "fluency": "High fluency. Free speech. Rich vocabulary, clean pronunciation without stuttering"
+      "fluency": "High fluency"
     },
     {
       "language": "Spanish",
@@ -167,6 +167,13 @@
         "F1 racing",
         "Gymnastics",
         "Boxing"
+      ]
+    },
+    {
+      "name": "Other",
+      "keywords": [
+        "Yoga",
+        "Travel"
       ]
     }
   ]
