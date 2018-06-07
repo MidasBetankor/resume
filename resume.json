@@ -1,12 +1,11 @@
 {
   "basics": {
-    "name": "Bohdan",
-    "label": "Programmer",
+    "name": "Bohdan Herasymenko",
+    "label": "Web Developer",
     "picture": "",
     "email": "www.de31k@gmail.com",
     "phone": "(+38) 096-86-15-206",
-    "website": "http://richardhendricks.com",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "summary": "Hi! Allow me to briefly introduce myself. Bohdan Herasymenko from Ukraine. 25 years old. Grew up in an industrial city of Kharkiv. In 2016 received Master's degree at National University of Economics, speciality: Informational Management Systems and Technologies. Began working being the 4th year student and instantly realized  w Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
     "location": {
       "address": "162-G Traktorobudivnikiv av.",
       "postalCode": "61129",
@@ -32,108 +31,143 @@
       "summary": "Worked as an outsource employee at an e-commerce platform with headquarters located in US. The platform demanded fluency in every field available, from front-end development to optimizing DB performance or automating data migration with SSIS packages",
       "highlights": [
         "Direct customer communication",
-        "Working as a cohesive member of a big team",
+        "Working as a cohesive member of a huge team (53 members)",
         "SSIS packages development and integration",
         "High emphasis on DB and overall web-site performance"
       ]
     },
     {
-      "company": "http://www.onetechnologies.com/",
+      "company": "One Technologies",
       "position": ".NET Developer",
-      "website": "http://",
-      "startDate": "2014-05-25",
-      "endDate": "2015-11-10",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "website": "http://www.onetechnologies.com/",
+      "startDate": "2016-01-25",
+      "endDate": "2017-05-01",
+      "summary": "As an member of outsourced team I was responsible for web development of new member portal, making full use of full development chain from DB to front-end.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Valuable experience of working with microservice architecture",
+        "Commercial experience Coffee script, Durandal, JADE, LESS web stack",
+        "Direct product owner communication",
+	"Experience of working within 5-member SCRUM team"
       ]
-    }
-  ],
-  "volunteer": [
+    },
     {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "website": "http://coderdojo.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
+      "company": "Everydayhealth.com",
+      "position": ".NET Developer",
+      "website": "https://www.everydayhealth.com/",
+      "startDate": "2017-05-01",
+      "endDate": "2017-11-25",
+      "summary": "As a member of a single-member team was in charge of optimizing and improving the platform's internal architecture, performance and back-end structure. Implemented various data migrations and set up multiple automated jobs, services and workers to keep platform internals consistent and in shape.",
       "highlights": [
-        "Awarded 'Teacher of the Month'"
+        "Direct product owner communication",
+        "Successfully led various technical projects to successful completion",
+	"Experience of working as a single member of kanban team",
+	"Strengthened my skills within SQL Server and SSIS fields",
+	"Received valuable experience of asynchronous programming",
+	"Experience of working under pressure within tightly packed schedule"
+      ]
+    },
+    {
+      "company": "BARE International",
+      "position": ".NET Developer",
+      "website": "https://www.bareinternational.com/",
+      "startDate": "2017-11-25",
+      "summary": "The main project objective is providing the internal stuff of the company with a robust and highly performant CRM system, which provides functionality to import, transform, analyze and export data from/into various sources and allows employees to create various report and perform basic data mining with the ability of export and further analysis in external tools.",
+      "highlights": [
+        "Experience of working within a performance oriented environment",
+        "DB profiling, query optimization"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
+      "institution": "Kharkiv National University of Economics",
       "area": "Information Technology",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
+      "studyType": "Master",
+      "startDate": "2010-09-01",
+      "endDate": "2016-06-31",
       "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
+        "Microsoft IT Academy - .NET Basics"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
-    }
-  ],
-  "publications": [
-    {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
     }
   ],
   "skills": [
     {
       "name": "Web Development",
-      "level": "Master",
+      "level": "Vantage",
       "keywords": [
         "HTML",
+        "JADE",
         "CSS",
-        "Javascript"
+        "SASS",
+        "LESS",
+        "Javascript (ES5, ES6)",
+        "Knockout.js",
+	"Durandal",
+	"React.js",
+	"React native (basic)"
       ]
     },
     {
-      "name": "Compression",
-      "level": "Master",
+      "name": "Backend Development",
+      "level": "Vantage",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        "C#",
+        "Windows Forms",
+        "ASP.NET MVC",
+        "ASP.NET Web Forms",
+        "WCF",
+        "Web API",
+        "Webservices"
+      ]
+    },
+    {
+      "name": "DB Development",
+      "level": "Vantage",
+      "keywords": [
+        "T-SQL",
+        "DB Profiling",
+        "Query Optimization",
+        "SSIS",
+        "SSRS",
+        "MySQL"
       ]
     }
   ],
   "languages": [
     {
-      "language": "English",
+      "language": "Ukrainian",
       "fluency": "Native speaker"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "High fluency. Free speech. Rich vocabulary, clean pronunciation without stuttering"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "A1 Certified"
     }
   ],
   "interests": [
     {
-      "name": "Wildlife",
+      "name": "Music",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "Oldschool Rock",
+        "Jimi Hendrix",
+        "Led Zeppelin",
+        "Judas Priest"
       ]
-    }
-  ],
-  "references": [
+    },
     {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "name": "Sport",
+      "keywords": [
+        "F1 racing",
+        "Gymnastics",
+        "Boxing"
+      ]
     }
   ]
 }
